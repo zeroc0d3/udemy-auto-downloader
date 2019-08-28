@@ -5,11 +5,11 @@ export ACCESS_KEY="./access.key"
 export DOWNLOAD_TARGET="./videos"
 export RESOLUTION="720"   ## resolution: (320p, 480p, 720p)
 
-export LIST_TUTORIAL_URL="https://www.udemy.com/kafka-cluster-setup \
-https://www.udemy.com/course/learn-kubernetes \
-https://www.udemy.com/docker-and-kubernetes-the-complete-guide \
-https://www.udemy.com/grpc-golang \
-https://www.udemy.com/linux-academy-red-hat-certified-systems-administrator-prep"
+export LIST_TUTORIAL_URL="https://tutuplapak.udemy.com/kafka-cluster-setup \
+https://tutuplapak.udemy.com/course/learn-kubernetes \
+https://tutuplapak.udemy.com/docker-and-kubernetes-the-complete-guide \
+https://tutuplapak.udemy.com/grpc-golang \
+https://tutuplapak.udemy.com/linux-academy-red-hat-certified-systems-administrator-prep"
 
 
 print_line0(){
