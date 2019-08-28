@@ -26,7 +26,7 @@ download_course() {
       print_line0
       echo "### Download: $TUTORIAL ###"
       print_line0
-      python $FILE_UDEMYDL $TUTORIAL -k $FILE_ACCESS_KEY -q $RESOLUTION -o $PATH_TARGET
+      python $UDEMYDL $TUTORIAL -k $ACCESS_KEY -q $RESOLUTION -o $DOWNLOAD_TARGET
       print_line1
       echo ""
     done
