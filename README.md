@@ -21,8 +21,9 @@
     ```
 
 ### Setup Auto Downloader
+* Rename `access.key.example` to `access.key`
 * Add acccess_token in `access.key` file
-* Define your url in `LIST_TUTORIAL_URL` (`run.sh`)
+* List your udemy course url in `list_course.txt`
 * Running terminal:
     ```
     make run        # or type #
